@@ -9,8 +9,8 @@ from helpers_st import *
 
 
 # Set title and intro text
-st.title('Mental Health Monitoring - GA')
-st.write('Welcome to GA mental health monitoring platform. Please retrieve posts required for batch classification. Alternatively, select the \'Text\' pane on the left to experiment with single text classification')
+st.title('Mental Health Monitoring')
+st.write('Welcome to the social media mental health monitoring platform. Please retrieve posts required for batch classification. Alternatively, select the \'Text\' pane on the left to experiment with single text classification')
 
 st.subheader('Load Data')
 st.write('Please use one of the following two options to load the required posts.')
